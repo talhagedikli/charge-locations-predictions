@@ -17,14 +17,16 @@ refine projections. The temporal span is divided into six periods, each lasting 
 stations in Istanbul will be identified at the conclusion of each period, offering a holistic
 strategy to alleviate range anxiety and foster sustainable growth in EV adoption.
 
-## *Neighborhood demand for 2035*
+## Some Examples
+
+### *Neighborhood demand for 2035*
 ![Neighborhood demand for 2035](./Photos/Demand.png)
 
 ---
-## *Optimal charging Locations for 2035*
+### *Optimal charging Locations for 2035*
 ![Optimal charging Locations for 2035](./Photos/Optimal.png)
 
 ---
-## *Possible charging locations (real-world park locations) for 2035*
+### *Possible charging locations (real-world park locations) for 2035*
 ![Possible charging locations (real-world park locations) for 2035](./Photos/Possible.png)
 
