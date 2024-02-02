@@ -1,3 +1,4 @@
+# Demand Prediction and Placement Optimization Model for Electric Vehicle Charging Stations in istanbul
 In recent years, a transformative shift in automotive preferences towards Battery Electric
 Vehicles (BEVs) has gained momentum, driven by their environmental advantages and
 economic efficiency compared to traditional Internal Combustion Engine cars.
@@ -15,4 +16,17 @@ refine projections. The temporal span is divided into six periods, each lasting 
 2020 to 2050. Through this comprehensive analysis, optimal locations for electric charging
 stations in Istanbul will be identified at the conclusion of each period, offering a holistic
 strategy to alleviate range anxiety and foster sustainable growth in EV adoption.
+
+## Some Examples
+
+### *Neighborhood demand for 2035*
+![Neighborhood demand for 2035](./Photos/Demand.png)
+
+---
+### *Optimal charging Locations for 2035*
+![Optimal charging Locations for 2035](./Photos/Optimal.png)
+
+---
+### *Possible charging locations (real-world park locations) for 2035*
+![Possible charging locations (real-world park locations) for 2035](./Photos/Possible.png)
 
